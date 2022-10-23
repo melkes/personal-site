@@ -17,3 +17,27 @@ body {
   padding: 15px;
 
 }
+
+.about {
+  float: right;
+  margin: 40px auto;
+
+}
+.spaced {
+  margin-bottom: 2em;
+}
+.me-img {
+  margin: 0 2em;
+  width: 25%;
+  height: auto;
+  float:left;
+}
+.break {
+  width: 30%;
+}
+
+.highlighter {
+  background-color: #ffd866 !important;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+}
